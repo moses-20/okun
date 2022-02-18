@@ -11,7 +11,7 @@
       "name": "iOS",
       "request": "launch",
       "type": "dart",
-      "deviceId": "6D749087-9C19-46AA-B9AB-1D5A35816FE0"
+      "deviceId": "49FE0485-2479-4765-9C68-A7A0EE237AA4"
     },
     {
       "name": "Web",
@@ -40,8 +40,8 @@
   ],
   "compounds": [
     {
-      "name": "Platforms",
-      "configurations": ["Android", "iOS", "Web", "macOS", "Linux", "Windows"]
+      "name": "Mobile",
+      "configurations": ["Android", "iOS"]
     }
   ]
 }
